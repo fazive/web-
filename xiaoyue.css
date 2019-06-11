@@ -86,7 +86,7 @@
 	text-decoration: none;
 	color: black;
 }
-.head>ul>li>a :hover{
+.head ul li a:hover{
 			color: white;
 			background-color: red;
 		}
